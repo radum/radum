@@ -4,7 +4,6 @@
 	<br>
 	<br>
 	<img src="https://i.imgur.com/aKD0Nn1.png" width="800" height="600">
-	<p>Loading</p>
 	<br>
 	<br>
 	<br>
