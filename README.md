@@ -3,7 +3,7 @@
 	<br>
 	<br>
 	<br>
-	<img src="https://i.kinja-img.com/gawker-media/image/upload/t_original/wijporpykemz2wzkrx5o.png" width="640" height="480">
+	<img src="https://i.imgur.com/aKD0Nn1.png" width="800" height="600">
 	<p>Loading</p>
 	<br>
 	<br>
