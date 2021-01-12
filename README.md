@@ -1,11 +1,9 @@
-<div align="center">
-	<br>
-	<br>
+![Metrics](https://metrics.lecoq.io/radum)
+
+<div align="centerz">
 	<br>
 	<br>
 	<img src="https://i.imgur.com/aKD0Nn1.png" width="800" height="600">
-	<br>
-	<br>
 	<br>
 	<br>
 </div>
