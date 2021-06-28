@@ -1,4 +1,38 @@
-![Metrics](https://metrics.lecoq.io/radum)
+<h2>Hey 👋, I'm Radu</h2>
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+
+<div align="left">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/radum/radum/master/images/welcome-fire.gif"  height="64" align="center" alt="Welcome to my GH profile" height="30" />
+</div>
+
+```
+ __   __  ___       __        _______    _______  ________   
+|"  |/  \|  "|     /""\      /"      \  /"     "|("      "\  
+|'  /    \:  |    /    \    |:        |(: ______) \___/   :) 
+|: /'        |   /' /\  \   |_____/   ) \/    |     /  ___/  
+ \//  /\'    |  //  __'  \   //      /  // ___)_   //  \__   
+ /   /  \\   | /   /  \\  \ |:  __   \ (:      "| (:   / "\  
+|___/    \___|(___/    \___)|__|  \___) \_______)  \_______) 
+```                                                        
+
+	
+</div>
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/radum/radum/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/radum/radum/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/radum/radum/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+</div>
+
+<!-- ![Metrics](https://metrics.lecoq.io/radum) -->
+
 
 <!-- <div align="centerz">
 	<br>
