@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Radu</h2>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" />
 
 <div align="left">
 
