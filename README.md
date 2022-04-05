@@ -31,8 +31,8 @@
 <img src="https://raw.githubusercontent.com/radum/radum/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-<!-- ![Metrics](https://metrics.lecoq.io/radum) -->
-
+I enjoy the chaos of the web and I pretend I can wield its power through code. I have been lucky enough to witness the browser wars, the standards era,
+the hypertext preprocessor battles, the spa's plague period and again its rebirth goging back to the core HyperText Markup root.
 
 <!-- <div align="centerz">
 	<br>
@@ -41,6 +41,14 @@
 	<br>
 	<br>
 </div> -->
+
+## Stats
+
+<!-- ![Metrics](https://metrics.lecoq.io/radum) -->
+
+![](https://github-readme-stats.vercel.app/api?username=radum&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=radum&layout=compact)
 
 <!--
 **radum/radum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
