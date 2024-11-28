@@ -32,7 +32,7 @@
 </div>
 
 I enjoy the chaos of the web and I pretend I can wield its power through code. I have been lucky enough to witness the browser wars, the standards era,
-the hypertext preprocessor battles, the spa's plague period and again its rebirth goging back to the core HyperText Markup root.
+the hypertext preprocessor battles, the spa's plague period and again its rebirth going back to the core HyperText Markup root.
 
 <!-- <div align="centerz">
 	<br>
