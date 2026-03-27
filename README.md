@@ -42,13 +42,13 @@ the hypertext preprocessor battles, the spa's plague period and again its rebirt
 	<br>
 </div> -->
 
-## Stats
+<!-- ## Stats -->
 
 <!-- ![Metrics](https://metrics.lecoq.io/radum) -->
 
-![](https://github-readme-stats.vercel.app/api?username=radum&show_icons=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=radum&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=radum&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=radum&layout=compact) -->
 
 <!--
 **radum/radum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
